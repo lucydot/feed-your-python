@@ -1,0 +1,7 @@
+# Development Artifacts
+.git
+.ipynb_checkpoints
+.DS_Store
+.gitignore
+binder
+feed_your_python_with_pandas.ppt
